@@ -15,5 +15,9 @@ title: Yoga al aire libre
 <div class="message">
 ¡Inscríbete!
 - [Whatsapp](tel:637175654)
-- [Instagram](https://www.instagram.com/rekayoga.centrointegral/)
+- [Instagram](https://github.com/madarjeg/madarjeg.github.io/blob/master/public/Instagram_Glyph_Gradient_RGB.png)
+  
+![placeholder](http://placehold.it/800x400 "Large example image")
+![placeholder](http://placehold.it/400x200 "Medium example image")
+![placeholder](http://placehold.it/200x200 "Small example image")
 </div>
