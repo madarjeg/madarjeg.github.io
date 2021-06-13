@@ -5,17 +5,17 @@ title: Clases para adultos - Horarios
 
 |Hora|Lunes|Martes|Miércoles|Jueves|Viernes|
 |10.00|<span style="color:red">Hatha yoga 1 * 10.00-11.15</span>|-|<span style="color:blue">Hatha yoga 2 * 10.00-11.15</span>|-|<span style="color:red">Hatha yoga 1 * 10.00-11.15</span>|
-|10.15|<span style="color:red">Hatha yoga 1 * 10.00-11.15</span>|-|<span style="color:blue">Hatha yoga 2 * 10.00-11.15</span>|-|<span style="color:red">Hatha yoga 1 * 10.00-11.15</span>|
-|10.30|<span style="color:red">Hatha yoga 1 * 10.00-11.15</span>|-|<span style="color:blue">Hatha yoga 2 * 10.00-11.15</span>|-|<span style="color:red">Hatha yoga 1 * 10.00-11.15</span>|
-|10.45|<span style="color:red">Hatha yoga 1 * 10.00-11.15</span>|-|<span style="color:blue">Hatha yoga 2 * 10.00-11.15</span>|-|<span style="color:red">Hatha yoga 1 * 10.00-11.15</span>|
-|11.00|<span style="color:red">Hatha yoga 1 * 10.00-11.15</span>|-|<span style="color:blue">Hatha yoga 2 * 10.00-11.15</span>|-|<span style="color:red">Hatha yoga 1 * 10.00-11.15</span>|
+|10.15|//|-|//|-|//|
+|10.30|//|-|//|-|//|
+|10.45|//|-|//|-|//|
+|11.00|//|-|//|-|//|
 |11.15|-|-|-|-|-|
 |11.30|-|-|-|-|-|
 |11.45|<span style="color:blue">Hatha yoga 2 * 11.45-13.00</span>|-|<span style="color:red">Hatha yoga 1 * 11.45-13.00</span>|-|<span style="color:blue">Hatha yoga 2 * 11.45-13.00</span>|
-|12.00|<span style="color:blue">Hatha yoga 2 * 11.45-13.00</span>|-|<span style="color:red">Hatha yoga 1 * 11.45-13.00</span>|-|<span style="color:blue">Hatha yoga 2 * 11.45-13.00</span>|
-|12.15|<span style="color:blue">Hatha yoga 2 * 11.45-13.00</span>|-|<span style="color:red">Hatha yoga 1 * 11.45-13.00</span>|-|<span style="color:blue">Hatha yoga 2 * 11.45-13.00</span>|
-|12.30|<span style="color:blue">Hatha yoga 2 * 11.45-13.00</span>|-|<span style="color:red">Hatha yoga 1 * 11.45-13.00</span>|-|<span style="color:blue">Hatha yoga 2 * 11.45-13.00</span>|
-|12.45|<span style="color:blue">Hatha yoga 2 * 11.45-13.00</span>|-|<span style="color:red">Hatha yoga 1 * 11.45-13.00</span>|-|<span style="color:blue">Hatha yoga 2 * 11.45-13.00</span>|
+|12.00|//|-|//|-|//|
+|12.15|//|-|//|-|//|
+|12.30|//|-|//|-|//|
+|12.45|//|-|//|-|//|
 |13.00|-|-|-|-|-|
 |13.15|-|-|-|-|-|
 |13.30|-|-|-|-|-|
