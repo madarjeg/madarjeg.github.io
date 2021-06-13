@@ -12,6 +12,8 @@ title: Yoga al aire libre
 |Jueves|20.00-21.15|
 |Viernes|09.30-10.45|
 
+<div class="message">
 ¡Inscríbete!
 - [Whatsapp](tel:637175654)
 - [Instagram](https://www.instagram.com/rekayoga.centrointegral/)
+</div>
