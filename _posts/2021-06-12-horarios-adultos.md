@@ -4,7 +4,7 @@ title: Clases para adultos - Horarios
 ---
 
 |Hora|Lunes|Martes|Miércoles|Jueves|Viernes|
-|10.00|Hatha yoga 1||Hatha yoga 2||Hatha yoga 1|
+|10.00|<span style="color:blue">Hatha yoga 1</span>||Hatha yoga 2||Hatha yoga 1|
 |10.30|Hatha yoga 2||Hatha yoga 1||Hatha yoga 2|
 |11.00||||||
 |11.30||||||
