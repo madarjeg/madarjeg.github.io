@@ -3,9 +3,9 @@ layout: post
 title:
 ---
 
-Hatha Yoga suave * Hatha yoga dinámico
 # Yoga al aire libre
 
+* Hatha Yoga suave / Hatha yoga dinámico
 * Parque central Tres Cantos * Junto a la torre del agua
 * Precio por clase: 7€ / persona
 
