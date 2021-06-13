@@ -13,5 +13,5 @@ title: Yoga al aire libre
 |Viernes|09.30-10.45|
 
 ¡Inscríbete!
-[123-456-7890](tel:1234567890)
-[Instragram](https://www.instagram.com/rekayoga.centrointegral/)
+- [123-456-7890](tel:1234567890)
+- [Instagram](https://www.instagram.com/rekayoga.centrointegral/)
