@@ -1,9 +1,7 @@
 ---
 layout: post
-title:
+title: Yoga al aire libre
 ---
-
-# Yoga al aire libre
 
 * Hatha Yoga suave / Hatha yoga dinámico
 * Parque central Tres Cantos * Junto a la torre del agua
